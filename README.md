@@ -4,6 +4,8 @@
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Django_Online_Voting&theme=merko)](https://github.com/wskoly/Django_Online_Voting)-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Child-Adoption-Portal&theme=merko)](https://github.com/wskoly/Child-Adoption-Portal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Problem-Solving&theme=merko)](https://github.com/wskoly/Problem-Solving)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Fake-news-prevention&theme=merko)](https://github.com/wskoly/Fake-news-prevention)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=MIT-Assignment-0-OpenGL&theme=merko)](https://github.com/wskoly/MIT-Assignment-0-OpenGL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Compiler-Lab&theme=merko)](https://github.com/wskoly/Compiler-Lab)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Calculator&theme=merko)](https://github.com/wskoly/Calculator)
