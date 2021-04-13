@@ -4,9 +4,12 @@
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Django_Online_Voting&theme=blue-green)](https://github.com/wskoly/Django_Online_Voting)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Bangla_Voice_Calculator&theme=blue-green)](https://github.com/wskoly/Bangla_Voice_Calculator)-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Fake-news-prevention&theme=blue-green)](https://github.com/wskoly/Fake-news-prevention)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Problem-Solving&theme=blue-green)](https://github.com/wskoly/Problem-Solving)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Child-Adoption-Portal&theme=blue-green)](https://github.com/wskoly/Child-Adoption-Portal)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=MIT-Assignment-0-OpenGL&theme=blue-green)](https://github.com/wskoly/MIT-Assignment-0-OpenGL)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=After-Apocalypse&theme=blue-green)](https://github.com/wskoly/After-Apocalypse)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Calculator&theme=blue-green)](https://github.com/wskoly/Calculator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=1-2_graphics.h_project&theme=blue-green)](https://github.com/wskoly/1-2_graphics.h_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Compiler-Lab&theme=blue-green)](https://github.com/wskoly/Compiler-Lab)
