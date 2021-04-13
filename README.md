@@ -13,9 +13,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Compiler-Lab&theme=blue-green)](https://github.com/wskoly/Compiler-Lab)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=C-Structure&theme=blue-green)](https://github.com/wskoly/C-Structure)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=CG-Algorithms&theme=blue-green)](https://github.com/wskoly/CG-Algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=WahidSadiqueKoly&theme=blue-green)](https://github.com/wskoly/WahidSadiqueKoly)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=After-Apocalypse&theme=blue-green)](https://github.com/wskoly/After-Apocalypse)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=WahidSadiqueKoly&theme=blue-green)](https://github.com/wskoly/WahidSadiqueKoly)
+
 
 # My Stats
 ![Koly's GitHub stats](https://github-readme-stats.vercel.app/api?username=wskoly&show_icons=true&theme=blue-green)
