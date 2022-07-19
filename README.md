@@ -3,7 +3,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=k_pass&theme=blue-green)](https://github.com/wskoly/k_pass)
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Django_Online_Voting&theme=blue-green)](https://github.com/wskoly/Django_Online_Voting)-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Bangla_Voice_Calculator&theme=blue-green)](https://github.com/wskoly/Bangla_Voice_Calculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Task_Reminder&theme=blue-green)](https://github.com/wskoly/Task_Reminder)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Fake-news-prevention&theme=blue-green)](https://github.com/wskoly/Fake-news-prevention)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wskoly&repo=Child-Adoption-Portal&theme=blue-green)](https://github.com/wskoly/Child-Adoption-Portal)
