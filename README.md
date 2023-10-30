@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satisfy&weight=600&size=50&pause=100&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hi+there!;I+am+Wahid+Sadique+Koly...;An+enthusiastic+Programmer%2C;Researcher%2C;Developer...)](https://git.io/typing-svg)
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![python](https://wskoly.netlify.app/images/koly3.png)
 
 # My Stats
 ![Koly's GitHub stats](https://github-readme-stats.vercel.app/api?username=wskoly&show_icons=true&theme=blue-green)
