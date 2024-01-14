@@ -26,7 +26,7 @@
 # Find me here
 [![LinkedIN](https://img.shields.io/badge/-LinkedIN-blue?logo=linkedin&logoColor=f5f5f5)](https://www.linkedin.com/in/wskoly/)
 [![LeetCode](https://img.shields.io/badge/-Leet%20Code-blue?logo=leetcode&logoColor=f5f5f5)](https://leetcode.com/wskoly/)
-[![LeetCode](https://img.shields.io/badge/-Portfolio-blue?logo=logoColor=f5f5f5)](https://wskoly.netlify.com/)
+[![LeetCode](https://img.shields.io/badge/-Portfolio-blue?logo=logoColor=f5f5f5)](https://wskoly.xyz/)
 
 <!--
 # Language Used
