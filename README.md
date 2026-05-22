@@ -1,5 +1,5 @@
 <!-- ===== TOP WAVE BANNER ===== -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,45:1F6FEB,100:7C3AED&text=Wahid%20Sadique%20Koly&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=36&animation=fadeIn&desc=Sr.%20Software%20Engineer%20%7C%20AI%20%2F%20Research%20%7C%20Computer%20Vision%20%7C%20XR%20%7C%20Team%20Lead&descSize=18&descAlign=50&descAlignY=58)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,45:1F6FEB,100:7C3AED&text=Wahid%20Sadique%20Koly&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=36&animation=fadeIn&desc=Sr.%20Software%20Engineer%20%7C%20AI%20%2F%20Research%20%7C%20Computer%20Vision%20%7C%20XR%20%7C%20Team%20Lead&descSize=18&descAlign=50&descAlignY=58" />
 
 <!-- ===== TYPING SVG ===== -->
 <p align="center">
@@ -42,12 +42,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wskoly&theme=github_dark&utcOffset=6" />
 </p>
 
-<details>
-  <summary><b>📈 Profile Details</b></summary>
+<b>📈 Profile Details</b>
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wskoly&theme=github_dark" />
   </p>
-</details>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wskoly&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=7C3AED&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
