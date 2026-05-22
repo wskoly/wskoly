@@ -244,7 +244,7 @@ Worked on **Digital Twin** technology — virtual replicas of physical systems e
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/wskoly/wskoly/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
@@ -252,7 +252,7 @@ Worked on **Digital Twin** technology — virtual replicas of physical systems e
 
 > 💡 *To enable the snake animation, add the [Snake GitHub Action](https://github.com/Platane/snk) to a workflow in your `wskoly/wskoly` repo.*
 
----
+--- -->
 
 ## 🌐 Let's Connect
 
